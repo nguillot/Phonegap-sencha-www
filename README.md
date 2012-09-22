@@ -19,7 +19,6 @@ Phonegap-sencha-android
  * créer un nouveau répertoire pour votre projet web
  * copier le fichier `cordova-2.1.0.js`du projet android dans le projet web sous le nom `cordova-2.1.0-android.js`
  * copier le fichier `cordova-2.1.0.js`du projet ios dans le projet web sous le nom `cordova-2.1.0-ios.js`
- * télécharger la librairie [zepto.js](http://zeptojs.com/#download) dans le projet web
  * créer le fichier `cordova-loader.js` pour avoir
 
 ```javascript
